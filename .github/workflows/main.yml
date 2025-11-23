@@ -48,4 +48,4 @@ jobs:
             } catch (error) {
               core.setFailed(`Failed to post comment: ${error.message}`);
             }
-``
+
