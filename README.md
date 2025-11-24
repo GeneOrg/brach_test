@@ -57,7 +57,7 @@ Fix lint error in src/sample.py:
 Shellecho "" >> src/sample.pygit add src/sample.pygit commit -m "Fix lint issue"git push origin mainShow more lines
 
 Show successful run.
-
+Added branching rules
 
 📈 Bonus
 
